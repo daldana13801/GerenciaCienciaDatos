@@ -5,3 +5,6 @@ Define la arquitectura y flujos de procesamiento de datos utilizados en el proye
 - Ingesta y transformación de datos.
 - Almacenamiento y disponibilidad.
 - Plan de monitoreo del pipeline.
+
+
+![Arquitectura implementada](https://github.com/daldana13801/GerenciaCienciaDatos/blob/main/docs/methodology/booking.drawio.png)
