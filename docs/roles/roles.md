@@ -1,4 +1,4 @@
-# 👨‍💻Roles dentro del Equipo del Proyecto de Análisis de Evaluaciones en Booking
+# 👨‍💻Roles dentro del Equipo del Proyecto de Análisis de Calificaciones en Booking
 
 El equipo del proyecto está compuesto por profesionales con roles clave en la gestión y análisis de los datos, asegurando que el reporte gerencial y el modelo de predicción sean desarrollados con precisión y eficiencia.
 
