@@ -14,6 +14,7 @@ Para este ejercicio se utilizo los siguientes pasos para la limpieza de datos:
 - Filtrar el campo acomodación y países para que no tome valores vacíos.
 
 **Cantidad de registros iniciales:** 438.213
+
 **Cantidad de datos finales:** 19.818
 
 Desde el equipo de ingeniería de datos se sugiere :​
